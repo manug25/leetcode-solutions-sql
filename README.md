@@ -62,7 +62,7 @@ DISCLAIMER: This above mentioned resources have affiliate links, which means if 
 
 | Name                                                                                                                                                                                               | Country        | Programming Language | Where to find you<br><sup>(add all links to your profiles eg on Hackerrank, Codechef, LeetCode...)</sup>                                                                                                                    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Manu K](https://github.com/manug25/) <br> <img src="https://github.com/manug25.png" width="100" height="100">                                                                     | India          | MySQL                 | [Hackerrank](https://www.hackerrank.com/gouravrusiya786) <br> [LeetCode](https://leetcode.com/rusiya/)                                                               |
+| [Manu K](https://github.com/manug25/) <br> <img src="https://github.com/manug25.png" width="100" height="100">                                                                     | India          | MySQL                 | [Hackerrank] <br> [LeetCode]                                                              |
 |
 <br/>
 <div align="right">
