@@ -1,18 +1,23 @@
 
-Data Engineering SQL/Spark
+# Data Engineering SQL/Spark
 
 ### Need help with Data Engineering SQL and Spark questions? 
 ### This repository will help you by providing solutions and approach of solving the SQL and Spark problems asked for Data Engineering interviews.
-#
+
+---
+
 ### [Contributors](#contributors) helped us in providing these Awesome solutions.
 
 ### If you want to contribute, please create a Pull Request. If you are new to Github please check pull request procedure ---> [PR process]
+(https://github.com/manug25/leetcode-solutions-sql/blob/main/PULL_REQUEST_PROCESS.md)
 
 Check out ---> [Sample PR]
 
 - This is first series in Data Engineering career path. For  and , you can see our <> and <> repositories.
 - Hope you enjoy the journey of learning this series of SQL questions for your Data Engineering career path.
-#
+
+---
+
 Other Series
 
 [Data Structures & Algorithm](https://github.com/manug25/LeetCode-Solutions)
