@@ -8,8 +8,7 @@
 
 ### [Contributors](#contributors) helped us in providing these Awesome solutions.
 
-### If you want to contribute, please create a Pull Request. If you are new to Github please check pull request procedure ---> [PR process]
-(https://github.com/manug25/leetcode-solutions-sql/blob/main/PULL_REQUEST_PROCESS.md)
+### If you want to contribute, please create a Pull Request. If you are new to Github please check pull request procedure ---> [PR process](https://github.com/manug25/leetcode-solutions-sql/blob/main/PULL_REQUEST_PROCESS.md)
 
 Check out ---> [Sample PR]
 
