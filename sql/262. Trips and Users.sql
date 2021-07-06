@@ -4,7 +4,6 @@ Runtime: 393 ms
 Memory: 0B
 */
 
-
 with cte as (
 select * from trips
     where client_id not in (select distinct users_id from users where banned = 'Yes') and
