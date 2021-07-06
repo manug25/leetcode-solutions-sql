@@ -1,5 +1,5 @@
 
-# Data Engineering SQL/Spark
+# Leetcode-Solutions SQL/Spark
 
 ### Need help with Data Engineering SQL and Spark questions? 
 ### This repository will help you by providing solutions and approach of solving the SQL and Spark problems asked for Data Engineering interviews.
