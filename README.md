@@ -14,8 +14,6 @@ Check out ---> [Sample PR]
 - Hope you enjoy the journey of learning this series of SQL questions for your Data Engineering career path.
 #
 Other Series
--
-[Spark-Solutions](https://github.com/manug25/data-engineering-spark)
 
 [Data Structures & Algorithm](https://github.com/manug25/LeetCode-Solutions)
 - Hope you enjoy the journey of data engineering path and keep learning.
