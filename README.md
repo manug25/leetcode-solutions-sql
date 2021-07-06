@@ -1,8 +1,8 @@
 
-# Data Engineering SQL
+Data Engineering SQL/Spark
 
-### Need help with Data Engineering SQL questions? 
-### This repository will help you by providing approach of solving the SQL problems asked for Data Engineering interviews.
+### Need help with Data Engineering SQL and Spark questions? 
+### This repository will help you by providing solutions and approach of solving the SQL and Spark problems asked for Data Engineering interviews.
 #
 ### [Contributors](#contributors) helped us in providing these Awesome solutions.
 
